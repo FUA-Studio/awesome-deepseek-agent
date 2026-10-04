@@ -1,6 +1,6 @@
 # FCD (FUA CODE) — DeepSeek 智能体指南
 
-FCD 是 FUA STUDIO 打造的开源终端与桌面 AI 编码代理。它提供流式 CLI（`fcd.exe`）、液态玻璃 Qt 桌面（`fcd-desktop.exe`）、Linux 二进制与安卓应用——全部共用同一套代理内核。本指南介绍 FCD 的安装、接入 DeepSeek 模型、以及首次任务，包括多智能体 **FUA Workflow（FWF）** 模式。
+FCD 是 FUA STUDIO 打造的免费（闭源）终端与桌面 AI 编码代理。它提供流式 CLI（`fcd.exe`）、液态玻璃 Qt 桌面（`fcd-desktop.exe`）、Linux 二进制与安卓应用——全部共用同一套代理内核。本指南介绍 FCD 的安装、接入 DeepSeek 模型、以及首次任务，包括多智能体 **FUA Workflow（FWF）** 模式。
 
 ## 功能特性
 
@@ -117,5 +117,5 @@ FWF 让多个内置智能体组队：1 个**领头**、1 个**计划者**、其�
 
 ## 资源
 
-- [GitHub 仓库](https://github.com/FUA-Studio/FCD) — 源码、发布版与 issue 跟踪
+- [GitHub 仓库](https://github.com/FUA-Studio/FCD) — 发布版、下载与公告
 - 程序内文档：`/help`、`/mcp`、`/fwf` 状态输出
