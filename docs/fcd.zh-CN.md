@@ -117,5 +117,5 @@ FWF 让多个内置智能体组队：1 个**领头**、1 个**计划者**、其�
 
 ## 资源
 
-- [GitHub 仓库](https://github.com/FUA-STUDIO/FCD) — 源码、发布版与 issue 跟踪
+- [GitHub 仓库](https://github.com/FUA-Studio/FCD) — 源码、发布版与 issue 跟踪
 - 程序内文档：`/help`、`/mcp`、`/fwf` 状态输出
