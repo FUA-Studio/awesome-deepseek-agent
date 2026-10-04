@@ -117,5 +117,5 @@ FWF runs several built-in agents as a team: 1 **leader**, 1 **planner** and the 
 
 ## Resources
 
-- [GitHub repository](https://github.com/FUA-STUDIO/FCD) — source, releases and issue tracker
+- [GitHub repository](https://github.com/FUA-Studio/FCD) — source, releases and issue tracker
 - In-app docs: `/help`, `/mcp`, `/fwf` status output
