@@ -1,6 +1,6 @@
 # FCD (FUA CODE) — DeepSeek Agent Guide
 
-FCD is an open-source terminal & desktop AI coding agent by FUA STUDIO. It ships a streaming CLI (`fcd.exe`), a liquid-glass Qt desktop (`fcd-desktop.exe`), a Linux binary and an Android app — all driven by the same agent core. This guide walks through installing FCD, wiring it to DeepSeek models, and running your first tasks, including the multi-agent **FUA Workflow (FWF)** mode.
+FCD is a free, closed-source terminal & desktop AI coding agent by FUA STUDIO. It ships a streaming CLI (`fcd.exe`), a liquid-glass Qt desktop (`fcd-desktop.exe`), a Linux binary and an Android app — all driven by the same agent core. This guide walks through installing FCD, wiring it to DeepSeek models, and running your first tasks, including the multi-agent **FUA Workflow (FWF)** mode.
 
 ## Features
 
@@ -117,5 +117,5 @@ FWF runs several built-in agents as a team: 1 **leader**, 1 **planner** and the 
 
 ## Resources
 
-- [GitHub repository](https://github.com/FUA-Studio/FCD) — source, releases and issue tracker
+- [GitHub repository](https://github.com/FUA-Studio/FCD) — releases, downloads and announcements
 - In-app docs: `/help`, `/mcp`, `/fwf` status output
